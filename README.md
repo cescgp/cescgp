@@ -1,10 +1,10 @@
 
 # Hola, mi nombre es Francesc Gomila 👋
-### Técnico de Software Full-Stack
+### Software Engineer Full-Stack
 
 Soy técnico de software con experiencia desde 2019.
 
-En 2019 me gradué como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y enseguida empecé mi carrera laboral. 
+En 2019 me gradué como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y enseguida empecé mi carrera en el mundo laboral. 
 
 Actualmente, trabajo como desarrollador Java y React Typescript en una gran empresa española.
 
