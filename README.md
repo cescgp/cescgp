@@ -27,3 +27,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/Francesc_Gomila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francesc-gomila-pons-bb2369181)
+
+## Mira uno de mis proyectos personales:
+![Adivina la película](https://laportadadeldia.com/):
+Un reto diario donde tendrás que adivinar la película a partir de su portada pixelada
